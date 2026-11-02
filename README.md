@@ -2,7 +2,7 @@
 
 A free, unofficial Gundam ZZ fan mod for owners of **Razor Squadron** on Windows.
 
-**[Download the latest Windows mod](https://github.com/adamblue83/gundam-team/releases/latest)**
+**[Download the latest Windows mod](https://github.com/adamblue83/gundam-team/releases/tag/v2026.11.01-rc1)**
 
 ![Gameplay across the six stages](screenshots/gameplay.jpg)
 
