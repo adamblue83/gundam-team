@@ -1,11 +1,11 @@
-Windows mod packaging validation
+Gundam Team RC3 validation — 2026-11-02
 
-The exact final game executable reconstructs byte-for-byte from either supported base game. Original executable hashes are unchanged after installation, updating and removal.
-Supported-version detection uses SHA-256 and file size. Patch and runtime integrity are verified before installation. Launcher verifies original and mod files before playing.
-All six stage scripts/previews, custom music and complete boss-pose image tree were found in the exported pack.
-A 20-second capped-headless startup completed without missing-resource or script errors. Known engine object/resource shutdown warnings may be emitted.
-External --script campaign automation is not counted as a shipping-executable gameplay test; its run timed out. Earlier six-stage development checks remain the gameplay validation. This package has not been tested on a separate clean Windows machine.
+Target executable SHA-256: 4f91e726b24562a73707ea23a45ecf3727179b038043fb018b0cb8733a99f3d5
 
-Public redistribution permissions for supplied third-party media remain unverified; sources and known credits are included.
+The package reconstructs the exact executable confirmed working by the player. Both supported Steam and Epic base versions passed installation, integrity verification, exported-game startup, updating, unsupported-version rejection and removal. Original base files remained unchanged, unrelated destination files survived removal, and a corrupt patch was rejected before installation.
 
-RC2: exported compiled enemy-hit audio and eligibility scripts passed real audio-bus capture and dead/inactive-target checks. See Audio audit.txt. All remaining original SFX references in production scripts/scenes were replaced; original Stage 3 and shop music are retained.
+The final real-input combat test observed matching gun, beam and missile impacts across 98 enemy hits and five player-damage events, with zero unintended menu cues. Rapid repeated-hit tests verified no playback restart or queued repeat, one voice per weapon, natural playback ending, dead-target gating and cleanup. These checks also passed against exported compiled game scripts. Existing Gundam firing cues and the menu/HUD correction were preserved.
+
+The player subsequently confirmed the installed game was fixed. This is local Windows validation; a separate clean-machine test and complete campaign certification have not been performed. Known engine object/resource shutdown warnings can appear after automated test exit.
+
+Public redistribution permissions for supplied third-party media remain independently unverified; credits and known notices are included.

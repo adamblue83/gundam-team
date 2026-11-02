@@ -1,15 +1,15 @@
-Gundam Team audio audit and correction - Release Candidate 2
+Gundam Team — RC3 audio correction — 2026-11-02
 
-Verified the actual installed RC1 executable's embedded audio resources, not only development filenames. All 16 source cues matched the Gundam Survivors imported WAVs and their corresponding project imports. The source manifest identifies Gundam Extreme Vs Force recordings.
+The player confirmed the corrected installed build works during normal gameplay.
 
-Found incomplete replacements: background fleet destruction and engine flybys, the shop unlock sound, and synthesized graze feedback. These now use recorded Gundam explosion, dash/thruster, UI, and guard/glance effects. The old boss-warning resource reference was replaced as well.
+The unwanted repeated combat sound was menu navigation feedback. MenuAudio listened to value_changed on all Range controls, including the HUD's health, target-health, XP and chain progress bars. Recent keyboard/controller input allowed those changing displays to play the menu cue. Numeric menu feedback now listens only to interactive sliders and spin boxes. Menu selection and Launch confirmation still work.
 
-Also verified warning behavior: the low-hull clip was assigned but its trigger/repeat handler was absent. The Gundam warning now plays at low hull and stops on recovery or death.
+Gundam firing is retained for Vulcan, beam and missile volleys. The legacy firing-resource path also resolves to the Gundam Vulcan clip.
 
-Enemy-hit feedback: 35 ms original Gundam impact pulse; one voice; no loop; dry SFX routing; no sustained 80 ms hold. Physics-step freshness stops playback when hits cease. Dead enemies, defeated bosses and inactive/dead turrets cannot refresh the sound.
+Projectile impacts now use the previewed Gundam Extreme Vs Force recordings: SE_BTL_HIT_GUN for Vulcan rounds, SE_BTL_HIT_BEAM for laser shots, and SE_BTL_HIT_MISSILE for missiles. Player and wingman shots share the valid-hit signal. Each weapon has one independent, dry, non-looping impact voice. Busy voices drop additional impacts rather than restarting or queueing them; the recordings retain their natural tails. Dead/inactive target gating and scene-stop cleanup remain in effect.
 
-Verification: real audio-bus capture while receiving simultaneous MG/laser/missile hits measured nonzero output, then exact silence after hits stopped. Live, dead and inactive target cases passed. Weapon/event/menu/explosion/background cue assignment checks passed.
+A real-input combat reproduction produced 92 unintended menu cues before the menu fix. The final impact build's combat test recorded 98 enemy hits and five player-damage events, all three impact types, at most three impact voices, and zero unintended menu cues. Additional repeated-hit checks verified no restart, queued repeats or lingering loops. Dead-target and cleanup checks passed. Firing and impact checks also passed against the exported compiled game.
 
-The real audio-bus capture and eligibility tests also passed after mounting the exported executable and loading its compiled .gdc scripts. This validates the packaged hit path, not just loose source files.
+The earlier test recording used simulated firing without real input events and therefore missed the menu/HUD trigger. Its clean sound was not evidence of a repaired hit timer. RC3 addresses the reproduced menu trigger directly.
 
-Player and wingman firing sounds were preserved. Music assignments are unchanged, including the user's retained Stage 3 track and existing shop music. The waveform test verifies the impact channel, not a subjective listening judgment of the whole mix.
+Music and gameplay rules are unchanged. The prior 35 ms generic impact is superseded by the matching weapon impacts above.

@@ -1,3 +1,5 @@
+Gundam Team 2026.11.02-rc3 — local Windows installer validation
+
 Steam install and integrity PASS
 Steam exported game startup PASS
 Steam update PASS
@@ -9,4 +11,6 @@ Epic update PASS
 Epic unsupported version preserves installed game PASS
 Epic removal and unchanged original PASS
 Corrupt patch rejection PASS
-Final RC2 after warning lifecycle fix: both base builds reconstructed and verified against the final executable SHA-256. Steam installed game startup passed. Exported compiled hit/warning scripts passed live audio-bus capture.
+
+Both supported base games reconstructed the exact player-confirmed executable:
+SHA-256 4f91e726b24562a73707ea23a45ecf3727179b038043fb018b0cb8733a99f3d5

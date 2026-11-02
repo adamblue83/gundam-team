@@ -1,21 +1,21 @@
 {
-  "version": "2026.11.01-rc2",
-  "targetSha256": "bd1323ab533461ed6586a50aebe6668236bc3e2e65fad1baafe24f2941f58a2f",
-  "targetSize": 740640016,
+  "version": "2026.11.02-rc3",
+  "targetSha256": "4f91e726b24562a73707ea23a45ecf3727179b038043fb018b0cb8733a99f3d5",
+  "targetSize": 740630416,
   "bases": [
     {
       "label": "Steam - October 24 build",
       "sha256": "576b3f2d18b61564badb7c6645c9635d8fad3bf403fa841576c3d05591ccb9fb",
       "size": 659302504,
       "patch": "SteamFullOct24Settings.gtd",
-      "patchSha256": "e0106220e3749bcf90f6520a555808a33077fa4cfcd04f0fbfd3bdd3e13af950"
+      "patchSha256": "47d48280e4bdfb24801a1890ef762df6956b61f29d731a7f058d21d96a209bfe"
     },
     {
       "label": "Epic - October 26 achievement fix",
       "sha256": "f5e53d2012f6728bd83536844749c6d659ab17ff8475ca5654a613e536adf6d0",
       "size": 659982080,
       "patch": "EpicOct26AchievementFix.gtd",
-      "patchSha256": "96c1ae1fef9a32ca7d947a06fa5ba6eda461c2233c298fc89a52e7cc395d34cb"
+      "patchSha256": "4bf5041bd355b353098c7d56b360ae6d463a4c3cb421b199e00243f17bd2c91d"
     }
   ],
   "files": [
