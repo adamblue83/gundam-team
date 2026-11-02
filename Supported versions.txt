@@ -1,0 +1,9 @@
+Supported full-game Windows x64 builds
+
+Steam - October 24 settings build (SteamFullOct24Settings)
+Epic - October 26 achievement fix build (EpicOct26AchievementFix)
+
+Exact executable hashes are recorded in manifest.json. Folder names may differ on users' computers; detection uses file content, not folder names.
+Other revisions, demos, Xbox/Microsoft Store editions, Linux and macOS are not supported by this package.
+A different full-game build requires a patch generated against that executable. The installer reports unsupported versions and leaves the current installation intact.
+The mod uses a separate local save and does not submit platform achievements or leaderboards.

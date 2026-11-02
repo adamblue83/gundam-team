@@ -1,0 +1,11 @@
+Steam install and integrity PASS
+Steam exported game startup PASS
+Steam update PASS
+Steam unsupported version preserves installed game PASS
+Steam removal and unchanged original PASS
+Epic install and integrity PASS
+Epic exported game startup PASS
+Epic update PASS
+Epic unsupported version preserves installed game PASS
+Epic removal and unchanged original PASS
+Corrupt patch rejection PASS

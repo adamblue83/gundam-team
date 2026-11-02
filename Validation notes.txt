@@ -1,0 +1,9 @@
+Windows mod packaging validation
+
+The exact final game executable reconstructs byte-for-byte from either supported base game. Original executable hashes are unchanged after installation, updating and removal.
+Supported-version detection uses SHA-256 and file size. Patch and runtime integrity are verified before installation. Launcher verifies original and mod files before playing.
+All six stage scripts/previews, custom music and complete boss-pose image tree were found in the exported pack.
+A 20-second capped-headless startup completed without missing-resource or script errors. Known engine object/resource shutdown warnings may be emitted.
+External --script campaign automation is not counted as a shipping-executable gameplay test; its run timed out. Earlier six-stage development checks remain the gameplay validation. This package has not been tested on a separate clean Windows machine.
+
+Public redistribution permissions for supplied third-party media remain unverified; sources and known credits are included.

@@ -1,0 +1,100 @@
+GUNDAM TEAM - ASSET SOURCES AND CREDITS
+
+Unofficial free fan mod. Gundam and original game assets remain the property of their respective owners.
+Base game: Razor Squadron / BlueGamer Productions.
+Sprite extraction/upload credits include danikk04; individual source links are retained below.
+
+ZZ map units
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/119218/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Z map units
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/119155/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+ZZ ships
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/119217/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+ZZ pilot portraits
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/119199/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+ZZ Gundam
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118424/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Z Gundam
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118292/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Gundam Mk-II (AEUG)
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118295/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Hyaku Shiki
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118306/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Elpeo Ple Qubeley Mk II
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118445/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Qubeley
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118327/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Psyco Gundam Mk II
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118450/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Quinn Mantha
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118454/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Bawoo
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118434/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Dreissen
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118436/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Gallus J
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118430/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Zssa
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118431/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Doven Wolf
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118448/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Geymalk
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118444/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Hamma Hamma
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118432/
+Preserve source uploader credit; confirmed danikk04 for ZZ units, ZZ portraits, ZZ Gundam and Z Gundam combat packs. Check remaining pages.
+
+Core Fighter [ZZ Gundam]
+https://www.spriters-resource.com/nintendo_switch/sdgundamggenerationgenesis/asset/118425/
+
+
+Funnels: SD Gundam G Generation Wars, uploaded by danikk04.
+https://www.spriters-resource.com/playstation_2/sdgundamggenerationwars/asset/130470/
+
+Music/video/logo material supplied by the project owner:
+Title: YTDown.mp3; ZZ opening video; Mobile Suit Gundam ZZ logo; AE_0083 logo.
+Stage 1: Mobile Suit Zeta Gundam OST 2 Pursuit (Cover).
+Stage 2: Zssa no Kyoi (Synthwave Cover).
+Stage 3: original Razor Squadron Vanguard track.
+Stage 4: Mobile Suit Zeta Gundam OST 2 Pursuit (Mario Kart).
+Stage 5: Heroic Overture. Stage 6: stage 6 final.
+Boss: Zeta Fight Synthwave Cover. Ending: game complete.
+Sound effects adapted from the local Gundam Survivors project.
+
+Source credit is provenance, not a grant of redistribution permission. Permission status for third-party sprite, music, video and logo material has not been independently verified.
