@@ -9,3 +9,4 @@ Epic update PASS
 Epic unsupported version preserves installed game PASS
 Epic removal and unchanged original PASS
 Corrupt patch rejection PASS
+Final RC2 after warning lifecycle fix: both base builds reconstructed and verified against the final executable SHA-256. Steam installed game startup passed. Exported compiled hit/warning scripts passed live audio-bus capture.

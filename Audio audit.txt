@@ -1,0 +1,15 @@
+Gundam Team audio audit and correction - Release Candidate 2
+
+Verified the actual installed RC1 executable's embedded audio resources, not only development filenames. All 16 source cues matched the Gundam Survivors imported WAVs and their corresponding project imports. The source manifest identifies Gundam Extreme Vs Force recordings.
+
+Found incomplete replacements: background fleet destruction and engine flybys, the shop unlock sound, and synthesized graze feedback. These now use recorded Gundam explosion, dash/thruster, UI, and guard/glance effects. The old boss-warning resource reference was replaced as well.
+
+Also verified warning behavior: the low-hull clip was assigned but its trigger/repeat handler was absent. The Gundam warning now plays at low hull and stops on recovery or death.
+
+Enemy-hit feedback: 35 ms original Gundam impact pulse; one voice; no loop; dry SFX routing; no sustained 80 ms hold. Physics-step freshness stops playback when hits cease. Dead enemies, defeated bosses and inactive/dead turrets cannot refresh the sound.
+
+Verification: real audio-bus capture while receiving simultaneous MG/laser/missile hits measured nonzero output, then exact silence after hits stopped. Live, dead and inactive target cases passed. Weapon/event/menu/explosion/background cue assignment checks passed.
+
+The real audio-bus capture and eligibility tests also passed after mounting the exported executable and loading its compiled .gdc scripts. This validates the packaged hit path, not just loose source files.
+
+Player and wingman firing sounds were preserved. Music assignments are unchanged, including the user's retained Stage 3 track and existing shop music. The waveform test verifies the impact channel, not a subjective listening judgment of the whole mix.

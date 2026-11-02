@@ -7,3 +7,5 @@ A 20-second capped-headless startup completed without missing-resource or script
 External --script campaign automation is not counted as a shipping-executable gameplay test; its run timed out. Earlier six-stage development checks remain the gameplay validation. This package has not been tested on a separate clean Windows machine.
 
 Public redistribution permissions for supplied third-party media remain unverified; sources and known credits are included.
+
+RC2: exported compiled enemy-hit audio and eligibility scripts passed real audio-bus capture and dead/inactive-target checks. See Audio audit.txt. All remaining original SFX references in production scripts/scenes were replaced; original Stage 3 and shop music are retained.

@@ -2,13 +2,13 @@
 
 A free, unofficial Gundam ZZ fan mod for owners of **Razor Squadron** on Windows.
 
-**[Download the latest Windows mod](https://github.com/adamblue83/gundam-team/releases/tag/v2026.11.01-rc1)**
+**[Download the latest Windows mod](https://github.com/adamblue83/gundam-team/releases/tag/v2026.11.01-rc2)**
 
 ![Gameplay across the six stages](screenshots/gameplay.jpg)
 
 ## Install and play
 
-1. Download **Gundam-Team-Windows-Mod-2026.11.01.zip** from Releases.
+1. Download **Gundam-Team-Windows-Mod-2026.11.01-rc2.zip** from Releases.
 2. Extract the entire ZIP into a folder.
 3. Open **Gundam Team Setup.exe** inside the extracted folder.
 4. Select your full game's **RazorSquadron.exe**, then choose **Install / Update**.
@@ -44,7 +44,7 @@ The launcher verifies the supported original game before playing. If you move or
 
 ## Release status and support
 
-This is the initial **release candidate**. Local installation, update, removal, integrity checks and startup were tested against both supported builds. The six stages received targeted development checks; this is not a full campaign or separate clean-PC certification.
+This is **Release Candidate 2**, including an audio audit and corrected background, graze, shop, and enemy-hit effects. See [Audio audit.txt](Audio%20audit.txt). Local installation, update, removal, integrity checks and startup were tested against both supported builds. The six stages received targeted development checks; this is not a full campaign or separate clean-PC certification.
 
 If something goes wrong, [open an issue](https://github.com/adamblue83/gundam-team/issues) with your Windows version, game edition, and the error text. Please do not upload your original game executable or personal save files.
 

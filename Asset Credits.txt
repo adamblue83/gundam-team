@@ -98,3 +98,4 @@ Boss: Zeta Fight Synthwave Cover. Ending: game complete.
 Sound effects adapted from the local Gundam Survivors project.
 
 Source credit is provenance, not a grant of redistribution permission. Permission status for third-party sprite, music, video and logo material has not been independently verified.
+RC2 additional effects: Gundam Extreme Vs Force SE_BTL_RUN_DASH (thruster/flyby) and SE_BTL_GUARD_VS_MACHINEGUN (graze), from the supplied Gundam SFX V2.1 collection. Enemy impact is a short derivative of the existing SE_BTL_HIT_BEAM recording.
